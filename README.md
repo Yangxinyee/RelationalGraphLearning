@@ -2,7 +2,7 @@
 This repository contains the codes for our paper, which is accepted at IROS 2020. 
 For more details, please refer to the [paper](https://arxiv.org/abs/1909.13165).
 
-
+[Imgur](https://i.imgur.com/TfQOc4R.jpg)
 ## Abstract
 We present a relational graph learning approach for robotic crowd navigation using model-based deep reinforcement 
 learning that plans actions by looking into the future.
